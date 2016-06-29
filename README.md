@@ -1,2 +1,2 @@
 # corruptdb 
-tired of all the cruft
+### garbage in / garbage out
